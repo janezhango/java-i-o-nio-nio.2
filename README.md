@@ -13,3 +13,6 @@ Release v1.0 corresponds to the code in the published book, without corrections 
 ## Contributions
 
 See the file Contributing.md for more information on how you can contribute to this repository.
+
+
+[Oreilly Book Page](https://learning.oreilly.com/library/view/java-io-nio/9781484215654/9781484215661_Part1.xhtml)
